@@ -1,0 +1,9 @@
+C:\Users\isal\Downloads\PaintDrawX-20240713T090441Z\PROK\bin\Debug\PaintDrawX.exe
+C:\Users\isal\Downloads\PaintDrawX-20240713T090441Z\PROK\bin\Debug\PaintDrawX.pdb
+C:\Users\isal\Downloads\PaintDrawX-20240713T090441Z\PROK\obj\Debug\PaintDrawX.csproj.AssemblyReference.cache
+C:\Users\isal\Downloads\PaintDrawX-20240713T090441Z\PROK\obj\Debug\PaintDrawX.Form1.resources
+C:\Users\isal\Downloads\PaintDrawX-20240713T090441Z\PROK\obj\Debug\PaintDrawX.Properties.Resources.resources
+C:\Users\isal\Downloads\PaintDrawX-20240713T090441Z\PROK\obj\Debug\PaintDrawX.csproj.GenerateResource.cache
+C:\Users\isal\Downloads\PaintDrawX-20240713T090441Z\PROK\obj\Debug\PaintDrawX.csproj.CoreCompileInputs.cache
+C:\Users\isal\Downloads\PaintDrawX-20240713T090441Z\PROK\obj\Debug\PaintDrawX.exe
+C:\Users\isal\Downloads\PaintDrawX-20240713T090441Z\PROK\obj\Debug\PaintDrawX.pdb
